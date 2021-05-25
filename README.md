@@ -1,4 +1,4 @@
-# Basic-TTN-Balloon-Tracker
+# Basic-TTN-Balloon-Tracker firmware
 No Frills TTN Cayenne GPS tracker using LMIC
 
 Pin mappings for ATmega328P
